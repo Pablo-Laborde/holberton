@@ -1,0 +1,2 @@
+-- ex 3
+SHOW TABLES;
