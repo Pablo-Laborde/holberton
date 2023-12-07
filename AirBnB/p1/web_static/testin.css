@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    align-items: center;
+}
+
+main div {
+    background-color: red;
+    height: 100px;
+    width: 200px;
+}
+main div h1 {
+    display: block;
+}
+
+main div h2 {
+    display: block;
+}
