@@ -1,1 +1,1 @@
-holbertonschool-javascript-coding raedme
+frontend readme
